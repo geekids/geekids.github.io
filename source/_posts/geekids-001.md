@@ -17,7 +17,7 @@ tags:
 
 [Geekids, GeeKids](https://github.com/geekids)（中文名：`极客.娃`）
 
-- 由[Qiguer Zhang](https://github.com/geekmummy)和[Wales Wu](https://github.com/geekerview)共同创立的儿童教育服务品牌；
+- 由[Qiguer Zhang](https://github.com/geekmummy)和[Wales Wu](https://github.com/geekerview)共同创立的儿童教育服务品牌
 - 深度研究儿童成长发展规律
 - 旨在为家长提供优质的教育咨询服务
 - 旨在为孩子构建优质的线上、线下教育体验
