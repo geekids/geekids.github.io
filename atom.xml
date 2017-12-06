@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>极客.娃</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://geekids.github.io/"/>
+  <updated>2017-12-06T01:45:53.000Z</updated>
+  <id>http://geekids.github.io/</id>
+  
+  <author>
+    <name>Wales Wu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极客.娃 正式开始运营！</title>
+    <link href="http://geekids.github.io/2017/12/06/geekids-001/"/>
+    <id>http://geekids.github.io/2017/12/06/geekids-001/</id>
+    <published>2017-12-06T00:56:40.000Z</published>
+    <updated>2017-12-06T01:45:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>鉴于知识、认知、技能水平有限，文章内有不正确之处欢迎提<code>issue</code>告知</li><li>若本文能给你带来一丝收获，那是最大的荣幸，欢迎提<code>issue</code>分享你的吐槽、收获和想法</li><li>感谢阅读本文</li></ul><hr><h2 id="whoami"><a href="#whoami" class="headerlink" title="whoami"></a>whoami</h2><p><a href="https://github.com/geekids" target="_blank" rel="noopener">Geekids, GeeKids</a>（中文名：<code>极客.娃</code>）</p><ul><li>由<a href="https://github.com/geekmummy" target="_blank" rel="noopener">Qiguer Zhang</a>和<a href="https://github.com/geekerview" target="_blank" rel="noopener">Wales Wu</a>共同创立的儿童教育服务品牌；</li><li>深度研究儿童成长发展规律</li><li>旨在为家长提供优质的教育咨询服务</li><li>旨在为孩子构建优质的线上、线下教育体验</li></ul><h2 id="whoarewe"><a href="#whoarewe" class="headerlink" title="whoarewe"></a>whoarewe</h2><p><a href="https://github.com/geekmummy" target="_blank" rel="noopener">Qiguer Zhang</a></p><ul><li>2004 ~ 2008，江西师范大学.地理科学 本科</li><li>2008 ~ 2011，江西师范大学.地理科学 硕士</li><li>2011.07 ~ 2013.07 广州师范大学附属中学.东江中学 高中部执教</li><li>2013.08 ~ 2016.12 某一线教育培训机构 执教</li><li>2017.07 ~ 至今 某电商公司 电商运营经理</li></ul><p><a href="https://github.com/geekerview" target="_blank" rel="noopener">Wales Wu</a></p><ul><li>2005 ~ 2009，江西师范大学.地图学与地理信息系统 本科</li><li>2009 ~ 2012，中南大学.地图学与地理信息系统 硕士</li><li>2011 ~ 2012，中国科学院.深圳先进技术研究院 客座学生</li><li>2012.07 ~ 2013.01 华为技术有限公司 开发工程师</li><li>2013.02 ~ 至今 IBM中国研发中心 开发工程师</li></ul><p>我们共同拥有一个可爱的女儿，我们的品牌也因女儿而诞生。</p><h2 id="contact"><a href="#contact" class="headerlink" title="contact"></a>contact</h2><ul><li>Email: <a href="geekids.geekview@gmail.com">geekids.geekview@gmail.com</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;鉴于知识、认知、技能水平有限，文章内有不正确之处欢迎提&lt;code&gt;issue&lt;/code&gt;告知&lt;/li&gt;
+&lt;li&gt;若本文能给你带来一丝收获，那是最大的荣幸，欢迎提&lt;code&gt;issue&lt;/code&gt;分享你的吐槽、收获和想法&lt;/li&gt;
+&lt;li&gt;感谢阅读本文&lt;/li
+      
+    
+    </summary>
+    
+      <category term="Default" scheme="http://geekids.github.io/categories/Default/"/>
+    
+    
+  </entry>
+  
+</feed>
