@@ -39,30 +39,12 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 阿里巴巴Java开发手册
-    url: https://yq.aliyun.com/articles/69327
-  - title: Apsara Clouder基础技能认证：阿里巴巴编码规范
-    url: https://edu.aliyun.com/certification/cldt02?spm=5176.100239.blogcont69327.10.UrfASp
-  - title: InfoQ
-    url: http://www.infoq.com/cn/
-  - title: 云栖社区
-    url: https://yq.aliyun.com/
-  - title: 美团技术团队博客
-    url: http://tech.meituan.com/
-  - title: 阿里中间件团队
-    url: http://jm.taobao.org/
-  - title: 淘宝MySQL数据库内核月报
-    url: http://mysql.taobao.org/monthly/
-  - title: 有赞技术团队
-    url: http://tech.youzan.com/
-  - title: 阮一峰的网络日志
-    url: http://www.ruanyifeng.com/blog/
-  - title: 廖雪峰的官方网站
-    url: http://www.liaoxuefeng.com/
-  - title: 方腾飞的并发编程网
-    url: http://ifeve.com/
-  - title: 何登成的技术博客
-    url: http://hedengcheng.com/
+  - title: 极客.娃
+    url: https://github.com/geekids
+  - title: 极客.妈
+    url: https://github.com/geekmummy
+  - title: 极客View
+    url: https://github.com/geekerview
 
 timeline:
   - num: 1
